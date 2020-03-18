@@ -1,0 +1,50 @@
+
+body{
+
+    background-color: rgb(241, 145, 35);
+}
+.fixme1 img {
+    width:200px;
+    display: block;
+    margin-left: 10px;
+    margin-right: auto;
+    
+}
+
+.fixme2 {
+  font-size: 300%;
+  height: 6em;
+  display: flex;
+  align-items: center ;
+  
+
+}
+.fixme2 div {
+  float: left;
+  
+}
+
+
+ul.fixme3 {
+  list-style-type: none;
+  padding: 10px;
+  margin: 20px;
+  overflow: hidden;
+  background-color: yellow;
+
+}
+
+li {
+  float: left;
+  
+}
+
+li a{
+  display:block ;
+  color: rgb(12, 10, 10);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: underline;
+  
+}
+
