@@ -8,6 +8,11 @@
 .fixme2 {
   font-size: 300%;
   display: flex;
+  
+}
+.fixme2 div {
+  padding-right: 15px;
+
 }
 
 .fixme3 {
