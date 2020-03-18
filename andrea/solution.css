@@ -1,0 +1,22 @@
+
+.one {
+    display: inline;
+    font-size: 50px
+}
+
+img {
+    width: 12%;
+    height: 50vh;
+}
+
+.fixme3  {
+    background-color: yellow;
+    list-style: none;
+    text-align: center;
+}
+
+.fixme3 li {
+    display: inline-block;
+    font-size: 25px;
+    padding: 30px;
+  }
