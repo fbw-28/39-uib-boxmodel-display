@@ -1,0 +1,19 @@
+h2 {
+    font-weight: bold; 
+}
+
+.fixme1 img {
+   display: block;
+}
+
+.fixme2 div {
+    display: inline-block;
+}
+.fixme3 {
+    height: 10vh;
+    text-align: center;
+}
+
+li {
+    display: inline-block;
+}
