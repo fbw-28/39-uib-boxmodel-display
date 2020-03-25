@@ -1,0 +1,25 @@
+.fixme1 img {
+    display: block;
+    margin: 0;
+    padding: 0;
+    height: 20vh;
+}
+
+.fixme2 div {
+    display: inline-block;
+    font-size: 80px;
+    padding: 10px;
+}
+
+.fixme3 {
+    background-color: yellow;
+    padding: 10px;
+    height: 5vh;
+    text-align: center;
+}
+
+.fixme3 li {
+    display: inline-block;
+    font-size: 25px;
+    padding: 10px 100px;
+}
