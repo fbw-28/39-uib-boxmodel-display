@@ -1,0 +1,22 @@
+
+
+.fixme1 img {
+    width:250px;
+    height: 600px;
+}
+
+.fixme2 {
+    
+  font-size: 300%;
+}
+
+.fixme3 {display: inline-block;
+  background-color: yellow;
+  text-align: center;
+  padding: 20px;
+  margin: 0;
+  width: 100vw;
+  
+}
+
+nav a {margin: 100px}
