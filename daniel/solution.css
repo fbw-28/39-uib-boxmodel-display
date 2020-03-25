@@ -1,0 +1,33 @@
+
+
+.fixme1 img {
+    width:200px;
+    height: 400px;
+}
+
+img.two, img.tri {
+  display: none;
+}
+
+.fixme2 div {
+  font-size: 300%;
+  display: inline;
+}
+
+.fixme3 {
+  background-color: yellow;
+  list-style-type: none;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+
+ul.fixme3 {
+  width: 75%;
+}
+
+.fixme3 li {
+  font-size: 20px;
+  padding: 20px;
+  display: inline-block;
+}
